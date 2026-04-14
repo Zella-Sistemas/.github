@@ -5,7 +5,7 @@ Bem-vindo ao repositório central de configurações da organização!
 Este repositório (`.github`) é um recurso especial do GitHub. Os arquivos de configuração, templates e fluxos de trabalho (workflows) armazenados aqui são **herdados automaticamente** por todos os outros repositórios da organização (a menos que o repositório tenha o seu próprio arquivo para sobrescrever).
 
 ## 🎯 Objetivo
-Com o foco em escalabilidade e na qualidade dos nossos projetos (como o SmartZ), manter a padronização do código é fundamental. Este repositório central serve para:
+Com o foco em escalabilidade e na qualidade dos nossos projetos, manter a padronização do código é fundamental. Este repositório central serve para:
 
 1. **Reduzir a carga cognitiva:** Automatizar tarefas repetitivas para que a equipe foque no que importa: a lógica de negócio.
 2. **Centralizar padrões:** Garantir que todos os projetos sigam as mesmas regras básicas de Code Review e governança.
