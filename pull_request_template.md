@@ -19,9 +19,7 @@ Arquitetura e Padrões
 
 Angular, TypeScript e Estado
 - [ ] Sintaxe Moderna: O código novo já está utilizando a sintaxe moderna de controle de fluxo do Angular 21 (`@if`, `@for`, `@switch`)?
-- [ ] Signals: O estado do componente está aproveitando o uso de Signals?
 - [ ] Tipagem: As variáveis estão tipadas e o uso de `any` foi evitado?
-- [ ] Memory Leaks: Os Observables possuem a correta desinscrição ou utilizam o `async` pipe no HTML?
 
 Estilização e UI
 - [ ] PrimeFlex: O layout foi construído prioritariamente utilizando as classes do PrimeFlex?
